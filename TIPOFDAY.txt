@@ -1,0 +1,6 @@
+Each day of work can be saved and retrieved for later use.
+Double click the Calendar date when loading a specific work day.  This will load your hours for that day.  <Note> You may have to press the Calculate button in case your Work Week Schedule changed (i.e. Compressed or Standard work week).
+Changing between a Standard work week and a Compressed work week is simple. Just select "Data" from the menu bar and then select "Week Type".
+Clicking the Reset button does not delete your data.  It only clears the input screen.
+Selecting "Data" from the menu bar and then selecting "Insert Day" will put the current time into whatever field has focus (excluding Hours Worked and Hours OT).
+Hours Worked is the total hours worked for the day and Hours OT is the difference between Hours Worked and your work week type.
